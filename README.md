@@ -15,6 +15,15 @@ Focused on terminal mastery, offensive security, defensive security, and automat
 
 ## 📌 Overview
 
+1- REGISTER TRYHACKME AND HACKTHEBOX FIRST TRYHACKME SECOND HACKTHEBOX
+
+2- WINDOWS PC KALI LINUX = https://www.virtualbox.org  AND  https://www.kali.org/get-kali/#kali-virtual-machines  ==== WATCH INSTALL VIDEO https://www.youtube.com/watch?v=ZJFu0AoAY_g
+
+3- MAC OS BOOT LINUX = WATCH TO VIDEO https://www.youtube.com/watch?v=6aW5qMe3Cng AND https://techolay.net/m2-macbooka-nasil-ubuntu-kurulur-adim-adim-rehber/
+
+4- MAC OS UTM KALI LINUX = WATCH TO VIDEO https://www.youtube.com/watch?v=U09soewiu18
+
+
 Linux is the foundation of modern cyber security operations.  
 This repository documents essential Linux knowledge required for:
 
