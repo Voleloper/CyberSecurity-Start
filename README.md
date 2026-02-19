@@ -1,4 +1,6 @@
-# 🐧 Linux for Cyber Security
+# 🐧 Linux for Cyber Security (KENDİNE SİBER)
+This repository is for educational and ethical security research only.
+Use these tools responsibly and legally.
 
 ![Linux](https://img.shields.io/badge/Platform-Linux-black?logo=linux)
 ![Security](https://img.shields.io/badge/Focus-CyberSecurity-red)
