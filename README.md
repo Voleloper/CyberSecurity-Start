@@ -17,17 +17,15 @@ Focused on terminal mastery, offensive security, defensive security, and automat
 
 1- FİRST HARVARD UNIVERSITY CS50's Introduction to Cybersecurity Watch and take notes. -- https://github.com/Voleloper/CyberSecurity-Start/blob/main/Harvard%20Cybersecurity
 
-2- SECOND HARVARD UNIVERSITY CS50'S introduction to the intellectual enterprises of computer science and the art of programming Watch and take notes. -- https://github.com/Voleloper/CyberSecurity-Start/blob/main/Harvard%20Computer%20science%20and%20the%20art%20of%20programming.
+2- REGISTER TRYHACKME AND HACKTHEBOX FIRST TRYHACKME SECOND HACKTHEBOX(First, select the tryhackme file above and start from there, then select hackthebox)
 
-3- REGISTER TRYHACKME AND HACKTHEBOX FIRST TRYHACKME SECOND HACKTHEBOX(First, select the tryhackme file above and start from there, then select hackthebox)
+3- WINDOWS PC KALI LINUX = https://www.virtualbox.org  AND  https://www.kali.org/get-kali/#kali-virtual-machines  ==== WATCH INSTALL VIDEO https://www.youtube.com/watch?v=ZJFu0AoAY_g
 
-4- WINDOWS PC KALI LINUX = https://www.virtualbox.org  AND  https://www.kali.org/get-kali/#kali-virtual-machines  ==== WATCH INSTALL VIDEO https://www.youtube.com/watch?v=ZJFu0AoAY_g
+4- MAC OS BOOT LINUX = WATCH TO VIDEO https://www.youtube.com/watch?v=6aW5qMe3Cng AND https://techolay.net/m2-macbooka-nasil-ubuntu-kurulur-adim-adim-rehber/
 
-5- MAC OS BOOT LINUX = WATCH TO VIDEO https://www.youtube.com/watch?v=6aW5qMe3Cng AND https://techolay.net/m2-macbooka-nasil-ubuntu-kurulur-adim-adim-rehber/
+5- MAC OS UTM KALI LINUX = WATCH TO VIDEO https://www.youtube.com/watch?v=U09soewiu18
 
-6- MAC OS UTM KALI LINUX = WATCH TO VIDEO https://www.youtube.com/watch?v=U09soewiu18
-
-7- LINUX COMMAND LEARNING Linux Commands for Cyber Security Beginners https://github.com/Voleloper/CyberSecurity-Start/blob/main/Linux%20Commands%20for%20Cyber%20Security%20Beginners
+6- LINUX COMMAND LEARNING Linux Commands for Cyber Security Beginners https://github.com/Voleloper/CyberSecurity-Start/blob/main/Linux%20Commands%20for%20Cyber%20Security%20Beginners
 
 
 Linux is the foundation of modern cyber security operations.  
